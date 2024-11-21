@@ -21,9 +21,27 @@ Here's a professional and engaging README file for your GitHub or portfolio:
 - **MySQL**  
 
 ### Identity and Access Management (IAM):  
-- **Okta** (SSO, MFA, Access Gateway)  
+- **Okta** (SSO, MFA, Access Gateway)
+
+### Tools and Technologies:
+- **MicrosoftExcel**, **GoogleSheets**
 
 ---
+## Experience
+
+# Data Entry Volunteer  
+**Sri Chaitanya Schools, Hyderabad, India**  
+**[January 2023 – April 2023]**
+
+## About the Role  
+Contributed to improving administrative efficiency by managing and organizing employee data.  
+
+## Responsibilities  
+- Entered and maintained employee details, including names, salaries, emails, and phone numbers.  
+- Verified data accuracy and organized large datasets for easy retrieval.  
+- Streamlined data entry workflows, enhancing overall efficiency.  
+
+--- 
 
 ## 📜 Certifications  
 
